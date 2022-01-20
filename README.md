@@ -13,7 +13,7 @@ For an example, run the [notebooks/Example.ipynb](https://github.com/kvsaboo/Cog
 .
 ├── data
 │   └── raw
-│      └── Example_data.csv 	# Provide synthetic data file (not cross-validation splits). Synthetic data is the same as used in the above manuscript.
+│       └── Example_data.csv 	# Provide synthetic data file (not cross-validation splits). Synthetic data is the same as used in the above manuscript.
 ├── notebooks
 │   └── Example.ipynb 	# Example code for preprocessing data,  and training and evaluating trajectory prediction model
 ├── src
