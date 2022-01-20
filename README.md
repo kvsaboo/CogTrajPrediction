@@ -5,7 +5,7 @@ This directory contains code to build a deep learning model for 5-year future co
 
 **Example**
 
-For an example, run the notebooks/Example.ipynb. The notebook contains explains how to specify the deep learning model architecture, train model, and evaluate it.
+For an example, run the [notebooks/Example.ipynb](https://github.com/kvsaboo/CogTrajPrediction/blob/master/notebooks/Example.ipynb). The notebook contains explains how to specify the deep learning model architecture, train model, and evaluate it.
 
 **Directory structure**
 
