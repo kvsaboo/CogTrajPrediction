@@ -5,7 +5,7 @@ This directory contains code to build a deep learning model for 5-year future co
 
 **Example**
 
-For an example, run the [notebooks/Example.ipynb](https://github.com/kvsaboo/CogTrajPrediction/blob/master/notebooks/Example.ipynb). The notebook contains explains how to specify the deep learning model architecture, train model, and evaluate it.
+For an example, run the [notebooks/Example.ipynb](https://github.com/kvsaboo/CogTrajPrediction/blob/master/notebooks/Example.ipynb). The notebook explains how to specify the deep learning model architecture, train model, and evaluate it.
 
 **Directory structure**
 
@@ -22,8 +22,9 @@ For an example, run the [notebooks/Example.ipynb](https://github.com/kvsaboo/Cog
 │   ├── models
 │   │   ├── cognetmodel.py 	# Class details of the trajectory prediction model
 │   │   └── interpret.py 	# Formatting the results of the model
-│   ├── visualization
-│   │   └── visualize.py 	# Visualize results
+│   └── visualization
+│       └── visualize.py 	# Visualize results
+├── LICENSE
 └── README.md 
 ```
 
